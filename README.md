@@ -1,2 +1,2 @@
-# Blog
-Making my own web site
+# Blog Personal 
+#blog-personal.github.io
