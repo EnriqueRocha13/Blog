@@ -1,60 +1,14 @@
-## 🧭 Bolg Personal: Noticias, Historia y Código
+🧭 Personal Blog: News, History & CodeThis is the repository for the personal blog of Marcos Enrique Domínguez Rocha. The project is currently a Front-end prototype designed as a crossroads between past and present—offering contemporary tech news while diving deep into significant historical narratives.The blog also serves as my Digital Portfolio, showcasing my development projects and facilitating professional networking.
 
-Este es el repositorio del blog personal de **[Tu Nombre]**. El proyecto actualmente es un **prototipo Front-end** diseñado para ser un espacio de encuentro entre el presente y el pasado, ofreciendo noticias de actualidad y profundizando en fragmentos históricos importantes.
+🚧 Project Status: Under Development!The core design and content structure are complete. The project is fully navigable, with advanced interactivity and dynamic features currently being implemented.ComponentCurrent StatusNext StepsStructure & ContentComplete (HTML5)Expanding the article library and historical database.Style & UI DesignComplete (CSS3)Fine-tuning responsive layouts and micro-interactions.InteractivityIn Progress (JS)Implementing scroll animations and dynamic transitions to enhance UX.
 
-El blog también sirve como mi portafolio digital, destacando mis proyectos y facilitando el contacto profesional.
+🌟 Featured SectionsNews: Articles on current trends in technology, science, and global interests.Historical Fragments: Brief analyses and narratives about key moments and figures in history.About Me: A dedicated Portfolio Section with direct links to my latest projects and professional contact information.
 
------
+💻 Tech StackThe following technologies form the foundation of this interactive demo:HTML5: Semantic structure for optimal SEO and accessibility across all pages (Home, Articles, About).CSS3: Modern layout techniques (Flexbox/Grid) used to ensure a visually engaging and readable experience.JavaScript (Coming Soon): Integration of scroll effects, dynamic navigation menus, and asynchronous content loading.
 
-## 🚧 Estado Actual del Proyecto: ¡En Desarrollo\!
+⚙️ Local PreviewClone the repository:Bashgit clone https://github.com/EnriqueRocha13/personal-blog.git
+Navigate to the directory:Bashcd personal-blog
+Open index.html in your preferred web browser.
 
-El diseño base y la estructura del contenido están completos. El proyecto es totalmente navegable, pero está pendiente la implementación de interactividad avanzada.
-
-| Componente | Estado Actual | Próximos Pasos |
-| :--- | :--- | :--- |
-| **Estructura/Contenido** | Completo (HTML) | Añadir más artículos y contenido. |
-| **Estilo/Diseño** | Completo (CSS) | Ajustes finales de diseño responsivo. |
-| **Interactividad** | Pendiente (JavaScript) | Implementar animaciones y transiciones dinámicas para mejorar la experiencia de usuario (UX). |
-
------
-
-## 🌟 Secciones Destacadas
-
-  * **Noticias:** Artículos sobre la actualidad en tecnología, ciencia o cualquier tema de interés.
-  * **Fragmentos Históricos:** Análisis y narrativas breves sobre momentos y personajes clave de la historia.
-  * **Sobre Mí:** Incluye una **sección de Portafolio** con enlaces a mis proyectos y mi información de contacto (correo electrónico, LinkedIn, etc.).
-
------
-
-## 💻 Tecnologías Utilizadas
-
-Las siguientes tecnologías han sido utilizadas para construir la estructura y el estilo del demo:
-
-  * **HTML5:** Usado para la estructura semántica de todas las páginas (Inicio, Artículos, Sobre Mí).
-  * **CSS3:** Empleado para el diseño, *layout* (incluyendo *Flexbox* o *Grid*) y para garantizar la **apariencia atractiva y legible** del contenido.
-  * **JavaScript (Próximamente):** Se incorporará para añadir animaciones, efectos de desplazamiento (*scroll effects*), y mejorar la interactividad del menú de navegación.
-
------
-
-## ⚙️ Cómo Visualizar el Blog
-
-1.  **Clona el repositorio:**
-    ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio-blog.git
-    ```
-2.  **Navega al directorio:**
-    ```bash
-    cd tu-repositorio-blog
-    ```
-3.  **Abre el archivo `index.html`** en tu navegador web.
-
------
-
-## ✉️ Contacto
-
-Puedes encontrar más sobre mí y mis otros proyectos en la sección **"Sobre Mí"** del blog.
-
-  * **GitHub:** [Tu Usuario de GitHub]
-  * **LinkedIn:** [Tu Enlace de LinkedIn]
-
------
+✉️ Contact & SocialsDiscover more about my work and vision in the "About Me" section of the blog.GitHub: EnriqueRocha13
+LinkedIn: enrique-domínguez13
